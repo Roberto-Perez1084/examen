@@ -1,28 +1,28 @@
 # examen
 
 # Pagina 1 
-![image](https://github.com/user-attachments/assets/747b36ee-5b58-4318-b813-9226c19c665b)
+![image](https://github.com/user-attachments/assets/3c9adc56-8704-416a-808a-23b6ea06ec02)
 
 # Pagina 2
-![image](https://github.com/user-attachments/assets/281a89a0-ee4e-447e-ab9c-7753a9536730)
+![image](https://github.com/user-attachments/assets/adbbc945-c322-4d12-a8ef-bb0f9dc79f68)
 
 # Pagina 3
-![image](https://github.com/user-attachments/assets/8c913772-b458-4b40-943c-1560b5085e14)
+![image](https://github.com/user-attachments/assets/bd4b88a4-61dd-4c3a-be80-8daaa7cce8aa)
 
 # Pagina 4
-![image](https://github.com/user-attachments/assets/e97aefcd-2914-444d-b741-20204e9d116f)
+![image](https://github.com/user-attachments/assets/34b263a7-ada1-4565-afc9-826ffe46b733)
 
 # Pagina 5
-![image](https://github.com/user-attachments/assets/62b11790-f81a-407d-8994-59924a9d814f)
+![image](https://github.com/user-attachments/assets/10438960-e12a-49a3-88a9-15efc04aea36)
 
 # Pagina 6
-![image](https://github.com/user-attachments/assets/1f1a2fec-5fb5-48a8-9599-701aa383e8c0)
+![image](https://github.com/user-attachments/assets/19843fe3-8780-4749-ac17-030897edd951)
 
 # Pagina 7
-![image](https://github.com/user-attachments/assets/efc3fe7a-32b7-4666-b6a0-62c5d4e49373)
+![image](https://github.com/user-attachments/assets/01bcc6c4-57e5-4223-9e10-268dde08bdeb)
 
 # Pagina 8
-![image](https://github.com/user-attachments/assets/869598ae-7dc9-4863-b852-d17a985f1ca6)
+![image](https://github.com/user-attachments/assets/f911420d-3a5e-4e21-af31-ac6a854347e8)
 
 
 A new Flutter project created with FlutLab - https://flutlab.io
